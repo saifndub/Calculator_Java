@@ -1,5 +1,5 @@
 
-package calculat;
+package calculator;
 
 
 public class Calculating extends javax.swing.JFrame {
